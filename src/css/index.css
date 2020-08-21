@@ -1,0 +1,11 @@
+body {
+	color: #333;
+	padding: 5px;
+}
+p {
+	font-size: 13px;
+	color: red;
+}
+span#link {
+	text-decoration: none;
+}
